@@ -23,9 +23,9 @@ https://raw.githubusercontent.com/Piglit09/jellyfin-plugin-signup-repo/main/mani
 
 Then install **Jellyfin Signup** from the Jellyfin plugin catalog and restart Jellyfin if prompted.
 
-### Plugin Menu
+## Screenshots
 
-![Jellyfin admin sidebar with Signup selected](images/signup-sidebar.png)
+The screenshots below are redacted to hide emails, usernames, URLs, invite codes, and server details.
 
 ### Public Signup Page
 
@@ -47,9 +47,9 @@ Then install **Jellyfin Signup** from the Jellyfin plugin catalog and restart Je
 
 ![Jellyfin Signup invite code management](images/signup-invites.png)
 
-## Screenshots
+### Plugin Menu
 
-The screenshots below are redacted to hide emails, usernames, URLs, invite codes, and server details.
+![Jellyfin admin sidebar with Signup selected](images/signup-sidebar.png)
 
 ## Release
 
