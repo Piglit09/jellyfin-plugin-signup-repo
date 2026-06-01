@@ -8,11 +8,11 @@
     "category": "General",
     "versions": [
       {
-        "version": "0.1.3.0",
-        "changelog": "Fixes Jellyfin 10.11 bundled web login-page patching by transforming main.jellyfin.bundle.js with a runtime native signup button injector and plugin forgot-password redirect.",
+        "version": "0.1.4.0",
+        "changelog": "Publishes a fresh package filename and checksum so Jellyfin downloads the current bundled login-page patch without using a cached 0.1.3 artifact.",
         "targetAbi": "10.11.10.0",
-        "sourceUrl": "https://raw.githubusercontent.com/Piglit09/jellyfin-plugin-signup-repo/main/Jellyfin.Plugin.Signup_0.1.3.zip",
-        "checksum": "A59433A9388AD77056246A2663A1ABE9B2A84BB81FBF9013CD4A116DEC4BAD52",
+        "sourceUrl": "https://raw.githubusercontent.com/Piglit09/jellyfin-plugin-signup-repo/main/Jellyfin.Plugin.Signup_0.1.4.zip",
+        "checksum": "87D7F43BD6A9E87E89D68F159061640FD202040E0A194FF9CB8A00316D34D54A",
         "timestamp": "2026-06-01T00:00:00Z"
       }
     ]
