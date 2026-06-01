@@ -8,11 +8,11 @@
     "category": "General",
     "versions": [
       {
-        "version": "0.1.5.0",
-        "changelog": "Hardens the login-page runtime patch so it uses plain button creation, shows a signup button by default, retries patching after Jellyfin re-renders the login form, and registers a fresh File Transformation callback ID.",
+        "version": "0.1.6.0",
+        "changelog": "Fixes Jellyfin webcomponents createElement errors by injecting the native login-page signup button with HTML instead of runtime button construction, and registers a fresh File Transformation callback ID.",
         "targetAbi": "10.11.10.0",
-        "sourceUrl": "https://raw.githubusercontent.com/Piglit09/jellyfin-plugin-signup-repo/main/Jellyfin.Plugin.Signup_0.1.5.zip",
-        "checksum": "AC5A04C67FD7035E310E4A919CFDC171",
+        "sourceUrl": "https://raw.githubusercontent.com/Piglit09/jellyfin-plugin-signup-repo/main/Jellyfin.Plugin.Signup_0.1.6.zip",
+        "checksum": "EAF9E6AB565FB82CEDF7F70F7D7D1689",
         "timestamp": "2026-06-01T00:00:00Z"
       }
     ]
