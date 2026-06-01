@@ -53,6 +53,6 @@ The screenshots below are redacted to hide emails, usernames, URLs, invite codes
 
 ## Release
 
-Current release: `0.1.0`
+Current release: `0.1.3`
 
 Target Jellyfin: `10.11.10.0`
