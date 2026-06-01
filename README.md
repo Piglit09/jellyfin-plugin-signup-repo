@@ -55,4 +55,4 @@ The screenshots below are redacted to hide emails, usernames, URLs, invite codes
 
 Current release: `0.1.0`
 
-Target Jellyfin ABI: `10.11.10.0`
+Target Jellyfin: `10.11.10.0`
